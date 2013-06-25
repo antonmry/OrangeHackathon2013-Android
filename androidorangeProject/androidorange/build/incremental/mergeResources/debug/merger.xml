@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res" >
+            <file
+                name="globe"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-hdpi\globe.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="happyhour"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-hdpi\happyhour.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="happyhour4"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-hdpi\happyhour4.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="orangeadmedia"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-hdpi\orangeadmedia.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="phone"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-hdpi\phone.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sale"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-hdpi\sale.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="title_bar_background"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-hdpi\title_bar_background.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="zarasale"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-hdpi\zarasale.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-mdpi\btn_default_normal.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_blue"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-mdpi\btn_default_normal_blue.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_brown"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-mdpi\btn_default_normal_brown.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_disable"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-mdpi\btn_default_normal_disable.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_disable_focused"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-mdpi\btn_default_normal_disable_focused.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_green"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-mdpi\btn_default_normal_green.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_lblue"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-mdpi\btn_default_normal_lblue.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_pink"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-mdpi\btn_default_normal_pink.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_red"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-mdpi\btn_default_normal_red.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_normal_yellow"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-mdpi\btn_default_normal_yellow.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_pressed"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-mdpi\btn_default_pressed.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_default_selected"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-mdpi\btn_default_selected.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_map"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\layout\activity_map.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="title_bar"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\layout\title_bar.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\values\colors.xml"
+                qualifiers="" >
+                <color name="greenStart" >#ff33dd44
+                </color>
+                <color name="green" >#00ff00
+                </color>
+                <color name="green_dark" >#006400
+                </color>
+                <color name="blue" >#0000ff
+                </color>
+                <color name="info_header_text_color" >@color/orange
+                </color>
+                <color name="red" >#ff0000
+                </color>
+                <color name="grey_dark" >#2F4F4F
+                </color>
+                <color name="greenEnd" >#ff1da130
+                </color>
+                <color name="purple" >#ae3ad9
+                </color>
+                <color name="orange" >#ff6501
+                </color>
+                <color name="grey_medium" >#b7b7b7
+                </color>
+                <color name="yellow" >#ffff00
+                </color>
+                <color name="greenMid" >#ff0A8815
+                </color>
+                <color name="grey_light" >#DCDCDC
+                </color>
+                <color name="buttons_small_text_color" >@color/orange
+                </color>
+            </file>
+            <file
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="s" >map
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_main" >Test Application
+                </string>
+                <string name="title_activity_display_message" >My Message
+                </string>
+                <string name="edit_message" >Enter a message
+                </string>
+                <string name="app_name" >Orange Lab
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="button_send" >Send
+                </string>
+            </file>
+            <file
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style name="LightBarSeparator" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+1dp
+                    </item>
+                    <item name="android:background">
+@color/grey_light
+                    </item>
+                </style>
+
+                <style name="ButtonText" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:textColor">
+#ffffff
+                    </item>
+                    <item name="android:gravity">
+center
+                    </item>
+                    <item name="android:layout_margin">
+3dp
+                    </item>
+                    <item name="android:textSize">
+30dp
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                    <item name="android:shadowColor">
+#000000
+                    </item>
+                    <item name="android:shadowDx">
+1
+                    </item>
+                    <item name="android:shadowDy">
+1
+                    </item>
+                    <item name="android:shadowRadius">
+2
+                    </item>
+                </style>
+
+                <style name="BarSeparator" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+1dp
+                    </item>
+                    <item name="android:background">
+@color/grey_dark
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\values-sw600dp\dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="activity_main"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\layout-sw320dp\activity_main.xml"
+                qualifiers="sw320dp"
+                type="layout" />
+            <file
+                name="title_bar"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\layout-sw320dp\title_bar.xml"
+                qualifiers="sw320dp"
+                type="layout" />
+            <file
+                name="activity_map"
+                path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\main\res\layout-sw320dp\activity_map.xml"
+                qualifiers="sw320dp"
+                type="layout" />
+        </source>
+        <source path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\mgarcia\AndroidStudioProjects\androidorangeProject\androidorange\src\debug\res" />
+    </dataSet>
+
+</merger>
